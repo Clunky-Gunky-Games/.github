@@ -17,7 +17,7 @@ Stay tuned for more updates!
 ## Contributing
 Haha, nope. Not yet, at least.
 
-Well, you can dm REMCodes on Discord (REMCodes#1947) to request a testing key, or we will reach out to you with a key if we decide we want you
+Well, you can DM REMCodes on Discord (REMCodes#1947) to request a testing key, or we will reach out to you with a key if we decide we want you
 to test the game.
 
 ## Other
